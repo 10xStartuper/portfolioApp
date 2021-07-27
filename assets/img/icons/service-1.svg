@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="56" viewBox="0 0 60 56">
+  <g id="service-1" transform="translate(-2 -6)">
+    <g id="Group_7056" data-name="Group 7056">
+      <path id="Path_17312" data-name="Path 17312" d="M61,40a1,1,0,0,0-1,1v6a1,1,0,0,1-1,1H5a1,1,0,0,1-1-1V21a1,1,0,0,0-2,0V47a3,3,0,0,0,3,3H23.38l-3,6H14a1,1,0,0,0,0,2H50a1,1,0,0,1,1,1v1H12a1,1,0,0,0,0,2H52a1,1,0,0,0,1-1V59a3,3,0,0,0-3-3H43.62l-3-6H59a3,3,0,0,0,3-3V41A1,1,0,0,0,61,40ZM41.38,56H22.62l3-6H38.38Z" fill="#ffaa17"/>
+      <path id="Path_17313" data-name="Path 17313" d="M59,6H5A3,3,0,0,0,2,9v8a1,1,0,0,0,2,0V9A1,1,0,0,1,5,8H59a1,1,0,0,1,1,1V37a1,1,0,0,0,2,0V9a3,3,0,0,0-3-3Z" fill="#ffaa17"/>
+      <path id="Path_17314" data-name="Path 17314" d="M21,30a3,3,0,0,0-3,3,2.84,2.84,0,0,0,.38,1.42l-5.23,5.81A3,3,0,1,0,15,43a2.94,2.94,0,0,0-.37-1.42l5.22-5.81A3,3,0,0,0,21,36a3.06,3.06,0,0,0,1.44-.38l4.78,4.25A3,3,0,0,0,30,44a1,1,0,1,0,0-2,1,1,0,1,1,1-1,1,1,0,1,0,2,0,3,3,0,0,0-.57-1.75l5.79-8.37A2.89,2.89,0,0,0,39,31a3,3,0,0,0,1.29-.3l3,3a3,3,0,1,0,5.24-.29L53,27.82A2.93,2.93,0,0,0,54,28a3,3,0,1,0,0-6,1,1,0,1,0,0,2,1,1,0,1,1-1,1,1,1,0,0,0-2,0,3,3,0,0,0,.46,1.58L47,32.18A2.93,2.93,0,0,0,46,32a3,3,0,0,0-1.29.3l-3-3a3.006,3.006,0,1,0-5.14.45l-5.79,8.37A2.89,2.89,0,0,0,30,38a3.06,3.06,0,0,0-1.44.38l-4.78-4.25A3,3,0,0,0,21,30Zm26,5a1,1,0,1,1-1-1A1,1,0,0,1,47,35Zm-8-8a1,1,0,1,1-1,1A1,1,0,0,1,39,27ZM12,44a1,1,0,1,1,1-1A1,1,0,0,1,12,44Zm8-11a1,1,0,1,1,1,1A1,1,0,0,1,20,33Z" fill="#ffaa17"/>
+      <path id="Path_17315" data-name="Path 17315" d="M14,10a7,7,0,1,0,7,7A7,7,0,0,0,14,10Zm4.9,6H15V12.1A5,5,0,0,1,18.9,16ZM14,22a5,5,0,0,1-1-9.9V17a1,1,0,0,0,1,1h4.9A5,5,0,0,1,14,22Z" fill="#ffaa17"/>
+      <circle id="Ellipse_966" data-name="Ellipse 966" cx="1" cy="1" r="1" transform="translate(24 15)" fill="#ffaa17"/>
+      <circle id="Ellipse_967" data-name="Ellipse 967" cx="1" cy="1" r="1" transform="translate(28 15)" fill="#ffaa17"/>
+      <circle id="Ellipse_968" data-name="Ellipse 968" cx="1" cy="1" r="1" transform="translate(32 15)" fill="#ffaa17"/>
+      <circle id="Ellipse_969" data-name="Ellipse 969" cx="1" cy="1" r="1" transform="translate(36 15)" fill="#ffaa17"/>
+      <circle id="Ellipse_970" data-name="Ellipse 970" cx="1" cy="1" r="1" transform="translate(24 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_971" data-name="Ellipse 971" cx="1" cy="1" r="1" transform="translate(28 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_972" data-name="Ellipse 972" cx="1" cy="1" r="1" transform="translate(32 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_973" data-name="Ellipse 973" cx="1" cy="1" r="1" transform="translate(36 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_974" data-name="Ellipse 974" cx="1" cy="1" r="1" transform="translate(40 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_975" data-name="Ellipse 975" cx="1" cy="1" r="1" transform="translate(44 19)" fill="#ffaa17"/>
+      <circle id="Ellipse_976" data-name="Ellipse 976" cx="1" cy="1" r="1" transform="translate(24 11)" fill="#ffaa17"/>
+      <circle id="Ellipse_977" data-name="Ellipse 977" cx="1" cy="1" r="1" transform="translate(28 11)" fill="#ffaa17"/>
+      <path id="Path_17316" data-name="Path 17316" d="M58,41a1,1,0,0,0-1-1H52a1,1,0,0,0,0,2h5A1,1,0,0,0,58,41Z" fill="#ffaa17"/>
+      <path id="Path_17317" data-name="Path 17317" d="M47,44a1,1,0,0,0,0,2h9a1,1,0,0,0,0-2Z" fill="#ffaa17"/>
+      <path id="Path_17318" data-name="Path 17318" d="M56,10H44a1,1,0,0,0-1,1v4a1,1,0,0,0,1,1H56a1,1,0,0,0,1-1V11A1,1,0,0,0,56,10ZM45,12h2v2H45Zm4,0h2v2H49Zm6,2H53V12h2Z" fill="#ffaa17"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,237 @@
+/*Large Device*/
+@media only screen and (min-width: 1200px) and (max-width : 1870px) {
+    header .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .header-area-v1 .header-navigation .navigation-area .top-header-area,
+    .header-area-v1 .header-navigation .navigation-area .primary-menu {
+        padding-right: 15px;
+    }
+    .header-area-v2 .header-navigation .main-menu ul li > a{
+        font-size: 14px;
+    }
+    .header-area-v2 .nav-menu {
+        padding-left: 0px;
+    }
+    .header-area-v2 .header-right ul li {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .header-area-v2 .header-right ul li .search-btn{
+        padding: 43px 20px;
+    }
+}
+
+/*Large Device*/
+@media only screen and (min-width: 992px) and (max-width : 1199px) {
+    .header-navigation .main-menu ul li.menu-item-has-children > a:after{
+        display: none;
+    }
+    header .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .section-title h2{
+        font-size: 34px;
+    }
+    .hero-content h1{
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .cta-area .cta-item .info h3{
+        font-size: 30px;
+    }
+    .cta-area .cta-item .button .main-btn{
+        padding: 12px 20px;
+    }
+    .counter-area .single-counter .info p{
+        font-size: 14px;
+    }
+    .footer-widget-area .footer-top .social-media-links ul li {
+        display: inline-block;
+        margin-left: 7px;
+    }
+    .testimonial-area-v2 .testimonial-slider-two {
+        margin-left: 0%;
+    }
+    .header-area-v2 .header-right ul li .off-menu{
+        display: none;
+    }
+    .header-area-v2 .header-right ul li {
+        display: inline-block;
+        margin-left: 30px;
+    }
+    .header-area-v1 .top-header-area{
+        display: none;
+    }
+    .header-area-v1 .header-navigation .site-branding {
+        width: 25%;
+    }
+    .header-area-v1 .header-navigation .navigation-area{
+        width: 75%;
+    }
+    .header-area-v1 .header-navigation .main-menu{
+        padding-left: 0px;
+        width: 100%;
+    }
+    .header-area-v1 .header-navigation .nav-button{
+        display: none;
+    }
+    .header-area-v1 .header-navigation .main-menu ul li:first-child .nav-link, .header-area-v2 .header-navigation .main-menu ul li:first-child .nav-link {
+        padding-left: 20px;
+    }
+}
+
+/*Medium Device*/
+@media only screen and (min-width: 768px) and (max-width : 991px){
+    .hero-content h1{
+        font-size: 34px;
+        line-height: 44px;
+    }
+    
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 991px) {
+    .header-navigation .main-menu ul li.menu-item-has-children > a:after{
+        display: none;
+    }
+    header .container-fluid{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .header-area-v1 .top-header-area {
+        display: none;
+    }
+    .header-area-v1 .header-navigation .main-menu{
+        padding-left: 0px;
+        width: 100%;
+    }
+    .header-area-v1 .header-navigation .nav-button{
+        display: none;
+    }
+    .header-area-v1 .header-navigation .site-branding {
+        width: 35%;
+    }
+    .header-area-v1 .header-navigation .navigation-area{
+        width: 65%;
+    }
+    .header-area-v2 .header-right ul li .off-menu{
+        display: none;
+    }
+    .header-area-v2 .header-right ul li {
+        display: inline-block;
+        margin-left: 30px;
+    }
+    .header-area-v1 .header-navigation .main-menu ul li:first-child .nav-link, .header-area-v2 .header-navigation .main-menu ul li:first-child .nav-link {
+        padding-left: 20px;
+    }
+    .our-clients .clients-content-box{
+        padding-right: 0px;
+    }
+    .testimonial-area-v2 .testimonial-slider-two {
+        margin-left: 0%;
+    }
+    .header-area-v1 .header-navigation .navigation-area .primary-menu{
+        padding-right: 15px;
+    }
+    .counter-area-v2 .counter-img{
+        display: none;
+    }
+    .counter-area-v2:after{
+        width: 100%;
+    }
+    .counter-area-v2 .counter-wrapper{
+        padding-top: 50px;
+    }
+    .counter-area-v2 .single-counter.mb-10,
+    .counter-area-v2 .single-counter.mb-80{
+        margin-bottom: 0px;
+    }
+    .counter-area-v2 .single-counter{
+        margin-bottom: 60px !important;
+    }
+    .blog-area-v2 .blog-post-item .post-thumbnail img{
+        width: 100%;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+    .header-area-v2 .header-right ul li.phon-column{
+        display: none;
+    }
+    .section-title h2 {
+        font-size: 32px;
+    }
+    .hero-content h1{
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .cta-area .cta-item .button .main-btn{
+        padding: 4px 10px;
+        font-size: 12px;
+        border-radius: 5px;
+    }
+    .cta-area .cta-item .info h3 {
+        font-size: 14px;
+        color: #fff;
+        line-height: 22px;
+    }
+    .cta-area .cta-item .info span {
+        font-size: 10px;
+        font-weight: 500;
+        line-height: 12px;
+    }
+    .footer-widget-area .footer-top .newsletter-item{
+        padding-left: 0px;
+    }
+    .footer-widget-area .footer-top .newsletter-item .main-btn{
+        position: relative;
+        top: auto;
+        right: auto;
+        margin: 15px 0;
+    }
+    .footer-widget-area .footer-top .social-media-links{
+        float: left;
+    }
+    .blog-details-page .blog-details-wrapper .comments-area .comments-list .comment{
+        flex-direction: column;
+    }
+    .blog-details-page .blog-details-wrapper .comments-area .comments-list .comment:nth-child(even) {
+        padding-left: 20px;
+    }
+    .blog-details-page .blog-details-wrapper .comments-area .comments-list .comment .comment-wrap{
+        margin-top: 20px;
+    }
+    .header-area-v2 .header-right ul li {
+        display: inline-block;
+        margin-left: 8px;
+    }
+    .header-area-v2 .header-right ul li .search-btn{
+        padding: 15px;
+    }
+    .footer-area-v2 .datapro_logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .footer-area-v2 .social-media-links{
+        float: none;
+        text-align: center;
+    }
+}
+/* Mobile Devices, Tablets */
+@media only screen and (max-width: 450px){
+    .clients-img-box .clients-imgs li {
+        max-width: 50%;
+        flex:  50%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+}
+/* Wide mobile Devices */
+@media only screen and (min-width: 451px) and (max-width : 767px) {
+    
+}
